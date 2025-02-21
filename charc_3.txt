@@ -1,0 +1,8 @@
+Zaman #NAME
+zaman.png
+375
+4
+Insult
+Captin Throw
+Insult on Cooldown
+Captin Throw on Cooldown

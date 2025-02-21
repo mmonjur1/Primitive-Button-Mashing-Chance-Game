@@ -1,0 +1,8 @@
+Parthicc #NAME
+paul.png
+500
+2
+Slam
+Hammerfist
+Slam on Cooldown
+Hammerfist on Cooldown

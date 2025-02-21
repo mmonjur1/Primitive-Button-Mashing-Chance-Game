@@ -1,0 +1,8 @@
+Mr. Fong #NAME
+fong.png
+400
+3
+Binary
+Hexadecimal
+Binary on Cooldown
+Hexadecimal on Cooldown

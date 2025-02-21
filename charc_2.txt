@@ -1,0 +1,8 @@
+Mithuny #NAME
+mithunny.png
+300
+1
+Throwing Knives
+Slash
+Throwing Knives on Cooldown
+Slash on Cooldown
