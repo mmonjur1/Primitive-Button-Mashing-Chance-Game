@@ -1,11 +1,12 @@
 #Importing required libraries.
 import tkinter
+import PIL
+import numpy as np
 import time
-from tkinter import *
+from tkinter import Tk
 from tkinter import ttk
 from tkinter import Label
 from PIL import ImageTk, Image
-import numpy as np
 import random
 
 #Initializing all the variables.
@@ -484,7 +485,7 @@ def p2crc_4():
 #Initializing the functions to be used in the battle using the information
 #from the character text files.
 def p1_health():
-  global p1charc
+  global p1charc4
   p1_health = int (p1charc[2])
   return p1_health
 
@@ -1036,7 +1037,7 @@ def help_page():
 window = Tk()
 window.geometry("700x394")
 
-frame = Frame(window, width=600, height=400, bg="white")
+frame = tkinter.Frame(window, width=600, height=400, bg="white")
 frame.pack()
 frame.place()
 
